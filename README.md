@@ -16,7 +16,7 @@ The data being analyzed is comprised of gradebooks spanning 5 different classes 
 ## Grade Distribution
 
 ![Grade Distribution #1](https://user-images.githubusercontent.com/112305152/187067060-0055acd9-e893-4be1-8631-aa83a4211f76.png)
-![Grade Distribution #2](https://user-images.githubusercontent.com/112305152/187067061-0857824d-a7ed-4d24-9563-3720da3e11c4.png)
+![Grade Distribution #2](https://user-images.githubusercontent.com/112305152/187234133-7549ba3d-dc47-4dea-8e69-df96a90a31ba.png)
 
 Both of the charts show the distribution of grades over all 5 classes. In Grade Distribution #1, it can be observed that the majority of students scored a B- or higher with the final score of B containing the most amount of students. In Grade Distribution #2, a histogram shows the distribution of grades over the numerical score between 0-100%. The histogram also includes the Kernal Density Estimate(KDE) which peaks between a score of 80-90%. In this case, the KDE tells where the majority of students held their final grades. An interesting inflection point in the KDE lies right before the passing grade cutoff between 65-69%.
 
