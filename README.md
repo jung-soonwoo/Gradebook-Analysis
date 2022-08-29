@@ -33,7 +33,6 @@ In this box plot it can be concluded that over time, final grades of students im
 ## Equity Dimensions
 
 ![Equity Dimension](https://user-images.githubusercontent.com/112305152/187123368-97ab0dd6-4fb2-4f2d-93fb-d26a97ea3c8a.png)
-![Equity Dimension](https://user-images.githubusercontent.com/112305152/187123368-97ab0dd6-4fb2-4f2d-93fb-d26a97ea3c8a.png)
 
 
 ## Correlations between Homework, Midterm, and Final Exam Scores
