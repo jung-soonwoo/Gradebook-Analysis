@@ -39,6 +39,6 @@ In this box plot it can be concluded that over time, final grades of students im
 
 ![Homework vs Final Exam](https://user-images.githubusercontent.com/112305152/187068018-89e4aaf7-f84b-4724-afaa-4ba66bc758cb.png)
 ![Midterm vs Final Exam](https://user-images.githubusercontent.com/112305152/187068040-48a9c156-abf2-4d44-a0f5-041227aaf7eb.png)
-![Midterm vs Final Exam](https://user-images.githubusercontent.com/112305152/187068066-e0aa2223-90a3-4a8d-a43e-f7ff098e7bed.png)
+![Homework vs Midterm](https://user-images.githubusercontent.com/112305152/187125080-ca578603-2bb2-46c7-86f8-221655147885.png)
 
 
